@@ -14,12 +14,23 @@
 </script>
 
 <nav>
-	<a href="#/">Home</a>
+	<a href="#/">Dashboard</a>
 	<a href="#/about">About</a>
 </nav>
 
 <Router {routes} />
 
 <style>
+	nav {
+		border-bottom: 1px solid black;
+		padding-bottom: 3px;
+	}
+	nav a {
+		font-size: large;
+		padding: 5px;
+	}
 
+	nav a:hover {
+		font-weight: bold;
+	}
 </style>
