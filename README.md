@@ -1,0 +1,1 @@
+# This is the frontend of covidiometro.it
