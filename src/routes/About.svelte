@@ -10,3 +10,10 @@
     <li><a href="https://svelte.dev">Svelte</a></li>
     <li><a href="https://vega.github.io/vega/">Vega</a></li>
 </ul>
+
+
+<h2>Sources</h2>
+<ul>
+    <li><a href="https://github.com/admiral0/covidiometro">Backend</a></li>
+    <li><a href="https://github.com/admiral0/covidiometro-spa">Frontend</a></li>
+</ul>
